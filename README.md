@@ -1,6 +1,8 @@
 # Bike Company | Sales & Profitability Analytics
 
-A nine-page Power BI report following the story from company performance to bike families, component economics and model-level decisions.
+A nine-page Power BI executive briefing: company performance, proposed priorities, then the evidence across growth, products, markets and customers.
+
+**Historical analysis: July 2017-June 2020.** The saved data ends on 15 June 2020. These findings do not describe current trading.
 
 **[Download the Power BI report](Bike%20Company.pbix?raw=true)** · [Browse all screenshots](docs/) · [Reading guide](docs/READING-GUIDE.md)
 
@@ -20,6 +22,20 @@ Saved data: **1 July 2017–15 June 2020**. All financial figures are USD.
 | Units sold | 274,776 |
 | Identified customers | 18,484 |
 
+## Proposed executive priorities
+
+Review these proposals immediately after the overview. Roles and timing are suggested, measured from approval, and require validation against current data before execution.
+
+| Priority | Proposed owner | Proposed timing | Success measure |
+|---|---|---|---|
+| Protect Mountain-200 profitability | Product lead + Finance | First 30 days | Approve pricing and availability guardrails; track margin, gross profit per unit and stock availability against an agreed baseline. |
+| Investigate Touring-3000 pricing | Pricing lead + Finance | First 30 days | Resolve or approve below-cost exceptions; track below-cost units and the price-cost spread by period. |
+| Test compatible parts bundles | Merchandising + Sales | Days 31-90 | Scale only with positive incremental gross profit versus a comparison group; monitor uptake and returns. |
+
+**Decision requested:** endorse validation and a limited pilot, then confirm owners and resources. This is a proposed plan, not an approved commitment.
+
+![Proposed executive priorities with owners timing and success measures](docs/09-next-moves.png)
+
 ## What the report shows
 
 - **Road leads revenue; mountain leads profit.** Road bikes generate $43.95M revenue. Mountain bikes contribute $6.11M gross profit, with $215.73 profit per unit versus road's $94.04 and touring's $31.60.
@@ -33,7 +49,7 @@ Saved data: **1 July 2017–15 June 2020**. All financial figures are USD.
 
 ### Growth
 
-Compare 1 January–15 June in both years: revenue grew 71.2% in 2020. The monthly chart retains the full saved history and its partial first and last years.
+Compare 1 January–15 June in both years: revenue grew 71.2% in 2020. The monthly chart retains the full saved history on a continuous date axis with fewer labels; the first and last years are partial.
 
 ![Growth comparing matching dates in 2019 and 2020 with monthly revenue and annual margins](docs/02-growth.png)
 
@@ -72,12 +88,6 @@ The US leads revenue at $63.31M, while Australia has a 33.7% gross margin. Compa
 Explore the customers we can identify and the limits of that view. Only 26.6% of revenue is assigned to named customers; unassigned sales remain in company totals.
 
 ![Identified customer coverage top customers and customer revenue by country](docs/08-customers.png)
-
-### Next moves
-
-Turn the evidence into three priorities: protect Mountain-200 profitability, investigate Touring-3000 pricing by period, and test compatible parts bundles. Each recommendation names the evidence, action and measures to monitor.
-
-![Evidence-based recommendations and a guide to the report metrics](docs/09-next-moves.png)
 
 ## Design and interaction
 
