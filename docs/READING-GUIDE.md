@@ -40,7 +40,7 @@ Components generate $11.80M revenue and $1.04M gross profit at 8.79% margin. Mou
 
 The bike and component model totals reconcile to their category totals within one cent. Touring-3000's unit-price/cost/profit arithmetic and customer-coverage split reconcile. No sales lines have a standard cost differing from the related product standard cost by more than one cent. This verifies internal consistency, not the accounting validity or historical accuracy of the cost policy. No source refresh was performed.
 
-Selected aggregate checks and reconciliation results are included alongside this guide. The Touring-3000 callout on Bike comparison is an all-data baseline. The full development scripts and earlier report versions remain in the local working folder.
+Aggregate checks and reconciliation results are retained in the local working folder. The Touring-3000 callout on Bike comparison is an all-data baseline. The full development scripts and earlier report versions remain in the local working folder.
 
 ## Illustrations
 
