@@ -1,5 +1,7 @@
 # Bike Company | Sales & Profitability Analytics
 
+![Power BI — Portfolio Project](https://img.shields.io/badge/Power_BI-Portfolio_Project-F2C811?style=flat) ![Sales data — 2017–2020](https://img.shields.io/badge/Sales_data-2017%E2%80%932020-F26B63?style=flat)
+
 A nine-page Power BI executive briefing: company performance, proposed priorities, then the evidence across growth, products, markets and customers.
 
 **Historical analysis: July 2017-June 2020.** The saved data ends on 15 June 2020. These findings do not describe current trading.
