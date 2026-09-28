@@ -1,6 +1,6 @@
 # Reading the Bike Company report
 
-Open **Bike Company.pbix**. The nine-page report connects overall performance, growth, product economics, markets and customer coverage. Use the bottom navigation to follow the story; Ctrl+click in Desktop edit mode.
+Open **Bike Company.pbix**. The nine-page report opens with performance and proposed priorities, then presents growth, product economics, markets and customer coverage. Historical analysis covers July 2017-June 2020 and does not describe current trading. The Priorities page proposes owners, timing from approval and success measures; validate current data before executing. Use the bottom navigation to follow the story; Ctrl+click in Desktop edit mode.
 
 ## What the comparison shows
 
